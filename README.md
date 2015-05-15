@@ -1,8 +1,17 @@
-# Kraftwagen
+# Kraftwagen (Drush extension)
 
-Kraftwagen is Drush extensions that provides a set of comands to support a
-_everything in code_ and _install profile_/`drush make` based Drupal development
-workflow.
+Kraftwagen consists of several parts, one of them being the `kraftwagen`
+Drush extentions of which you are currently reading the README.
+
+All Kraftwagen parts together aim to make Drupal fit for the use within
+(distributed) development teams, and facilitate reliable, staged,
+single-command deployments. Please [refer to the kraftwagen.org website](http://kraftwagen.org)
+for more information on the project as a whole.
+
+The Kraftwagen Drush extensions that provides a set of commands to allow a
+Drupal project to specify **everything in code** and facilitate a development
+workflow based on "install profiles" and `drush make`.
+
 
 ## Directory structure
 
